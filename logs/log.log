@@ -1,0 +1,268 @@
+[2023-02-20 13:55:52] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="8a8948394c0f4fc0157720f5cadbe3c0")> 
+[2023-02-20 13:55:52] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="8a8948394c0f4fc0157720f5cadbe3c0")> 
+[2023-02-20 13:55:52] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 13:55:52] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 13:55:52] [INFO] [base.py]/[line: 42]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 13:55:52] [INFO] [base.py]/[line: 42]/[do_click] 正在对('class name', 'login')元素执行点击操作 
+[2023-02-20 13:59:49] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="b2f1bcdf75de5844c9a57ef831e84b34")> 
+[2023-02-20 13:59:49] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="b2f1bcdf75de5844c9a57ef831e84b34")> 
+[2023-02-20 13:59:49] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 13:59:49] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 13:59:49] [INFO] [base.py]/[line: 42]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 13:59:55] [INFO] [base.py]/[line: 42]/[do_click] 正在对('class name', 'login')元素执行点击操作 
+[2023-02-20 13:59:55] [ERROR] [base.py]/[line: 30]/[do_find_element] 查找元素('class name', 'login')没有找到 
+[2023-02-20 14:00:22] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="379b57ecbc7b7b463a4a2a8f24db8a58")> 
+[2023-02-20 14:00:22] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="379b57ecbc7b7b463a4a2a8f24db8a58")> 
+[2023-02-20 14:00:22] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 14:00:22] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 14:00:22] [INFO] [base.py]/[line: 42]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 14:00:27] [INFO] [base.py]/[line: 42]/[do_click] 正在对('class name', 'login')元素执行点击操作 
+[2023-02-20 14:00:27] [ERROR] [base.py]/[line: 30]/[do_find_element] 查找元素('class name', 'login')没有找到 
+[2023-02-20 14:03:03] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="8d6d53a40b7462a73285ffa9fd50527b")> 
+[2023-02-20 14:03:03] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="8d6d53a40b7462a73285ffa9fd50527b")> 
+[2023-02-20 14:03:03] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 14:03:03] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 14:03:03] [INFO] [base.py]/[line: 42]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 14:03:08] [INFO] [base.py]/[line: 42]/[do_click] 正在对('css selector', "[class='login']/..")元素执行点击操作 
+[2023-02-20 14:03:08] [ERROR] [base.py]/[line: 30]/[do_find_element] 查找元素('css selector', "[class='login']/..")没有找到 
+[2023-02-20 14:06:17] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="d22febd2ac03c920c4540420c15227c2")> 
+[2023-02-20 14:06:17] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="d22febd2ac03c920c4540420c15227c2")> 
+[2023-02-20 14:06:17] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 14:06:17] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 14:06:17] [INFO] [base.py]/[line: 42]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 14:06:22] [INFO] [base.py]/[line: 42]/[do_click] 正在对('xpath', "[class='login']/..")元素执行点击操作 
+[2023-02-20 14:06:22] [ERROR] [base.py]/[line: 30]/[do_find_element] 查找元素('xpath', "[class='login']/..")没有找到 
+[2023-02-20 14:08:59] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="83f8f6033b5170e744deecacb051b03a")> 
+[2023-02-20 14:08:59] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="83f8f6033b5170e744deecacb051b03a")> 
+[2023-02-20 14:08:59] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 14:08:59] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 14:08:59] [INFO] [base.py]/[line: 42]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 14:09:04] [INFO] [base.py]/[line: 42]/[do_click] 正在对('xpath', "//*[class='login']/..")元素执行点击操作 
+[2023-02-20 14:09:04] [ERROR] [base.py]/[line: 30]/[do_find_element] 查找元素('xpath', "//*[class='login']/..")没有找到 
+[2023-02-20 14:33:30] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="db8328ea1301d0b7706d19050c646734")> 
+[2023-02-20 14:33:30] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="db8328ea1301d0b7706d19050c646734")> 
+[2023-02-20 14:33:30] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 14:33:30] [INFO] [base.py]/[line: 35]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 14:33:30] [INFO] [base.py]/[line: 42]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 14:33:35] [INFO] [base.py]/[line: 42]/[do_click] 正在对('xpath', "//*[@class='login']/..")元素执行点击操作 
+[2023-02-20 14:35:24] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="8979c56c5572fdc70e3d571d05f800bb")> 
+[2023-02-20 14:35:24] [INFO] [base.py]/[line: 11]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="8979c56c5572fdc70e3d571d05f800bb")> 
+[2023-02-20 14:35:24] [INFO] [base.py]/[line: 36]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 14:35:24] [ERROR] [base.py]/[line: 23]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 14:35:24] [INFO] [base.py]/[line: 36]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 14:35:24] [ERROR] [base.py]/[line: 23]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 14:35:24] [INFO] [base.py]/[line: 43]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 14:35:24] [ERROR] [base.py]/[line: 23]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 14:35:34] [INFO] [base.py]/[line: 43]/[do_click] 正在对('xpath', "//*[@class='login']/..")元素执行点击操作 
+[2023-02-20 14:35:34] [ERROR] [base.py]/[line: 23]/[do_find_element] 正在查找元素元素('xpath', "//*[@class='login']/..")没有找到 
+[2023-02-20 17:12:09] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="44a39977005fde741bbc02fc28c1e590")> 
+[2023-02-20 17:12:09] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="44a39977005fde741bbc02fc28c1e590")> 
+[2023-02-20 17:12:09] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 17:12:09] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 17:12:09] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 17:12:09] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 17:12:09] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 17:12:09] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 17:19:32] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="335f0dec59a4648aa029240e1e035bcc")> 
+[2023-02-20 17:19:32] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="335f0dec59a4648aa029240e1e035bcc")> 
+[2023-02-20 17:19:32] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 17:19:32] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 17:19:32] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 17:19:32] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 17:19:33] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 17:19:33] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 17:26:03] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="317276f167a1c5c32250a9b0c619a433")> 
+[2023-02-20 17:26:03] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="317276f167a1c5c32250a9b0c619a433")> 
+[2023-02-20 17:26:03] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 17:26:03] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 17:26:03] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 17:26:03] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 17:26:03] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 17:26:03] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 17:31:51] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="81338740dfae7fcc117470fa8421632c")> 
+[2023-02-20 17:31:51] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="81338740dfae7fcc117470fa8421632c")> 
+[2023-02-20 17:31:51] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 17:31:51] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 17:31:51] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 17:31:51] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 17:31:51] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 17:31:51] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 17:33:08] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="1815b8d2c9180ba878a81d9150993f97")> 
+[2023-02-20 17:33:08] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="1815b8d2c9180ba878a81d9150993f97")> 
+[2023-02-20 17:33:08] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 17:33:08] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 17:33:08] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 17:33:08] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 17:33:08] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 17:33:08] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 17:35:30] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="70b8934c84901e656c13ea57c602971d")> 
+[2023-02-20 17:35:30] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="70b8934c84901e656c13ea57c602971d")> 
+[2023-02-20 17:35:30] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 17:35:30] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 17:35:30] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 17:35:30] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 17:35:30] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 17:35:30] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 17:40:30] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="828571aced1bbc097175d47adf3e931b")> 
+[2023-02-20 17:40:30] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="828571aced1bbc097175d47adf3e931b")> 
+[2023-02-20 17:40:30] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 17:40:30] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 17:40:30] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 17:40:30] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 17:40:30] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 17:40:30] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 17:44:40] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="0de41c824d420e9cb608b84ad19d9886")> 
+[2023-02-20 17:44:40] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="0de41c824d420e9cb608b84ad19d9886")> 
+[2023-02-20 17:44:40] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 17:44:40] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 17:44:40] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 17:44:40] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 17:44:40] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 17:44:40] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 17:53:27] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="eaf3ab102d642361a22085d757d94201")> 
+[2023-02-20 17:53:27] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="eaf3ab102d642361a22085d757d94201")> 
+[2023-02-20 17:53:27] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 17:53:27] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 17:53:27] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 17:53:27] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 17:53:27] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 17:53:27] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 17:54:58] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="c7ef949ae4226ad6d25d5e4b76445daa")> 
+[2023-02-20 17:54:58] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="c7ef949ae4226ad6d25d5e4b76445daa")> 
+[2023-02-20 17:54:58] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 17:54:58] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 17:54:58] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 17:54:58] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 17:54:58] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 17:54:58] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 17:56:17] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="fe454a8e0a4497f3296057cea6fadb23")> 
+[2023-02-20 17:56:17] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="fe454a8e0a4497f3296057cea6fadb23")> 
+[2023-02-20 17:56:17] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 17:56:17] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 17:56:17] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 17:56:17] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 17:56:17] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 17:56:17] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 18:02:14] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="8016640a8d68a706d50d10267629c88b")> 
+[2023-02-20 18:02:14] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="8016640a8d68a706d50d10267629c88b")> 
+[2023-02-20 18:02:14] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 18:02:14] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 18:02:14] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 18:02:14] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 18:02:14] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 18:02:14] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 18:03:08] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="bd68f6f6983b7e2a5db9df2da1dd9c83")> 
+[2023-02-20 18:03:08] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="bd68f6f6983b7e2a5db9df2da1dd9c83")> 
+[2023-02-20 18:03:08] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 18:03:08] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 18:03:08] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 18:03:08] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 18:03:08] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 18:03:08] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 18:05:40] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="4d16df1c8007dc62201c76fdaac71399")> 
+[2023-02-20 18:05:40] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="4d16df1c8007dc62201c76fdaac71399")> 
+[2023-02-20 18:05:40] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 18:05:40] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 18:05:40] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 18:05:40] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 18:05:40] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 18:05:40] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 18:05:45] [INFO] [base.py]/[line: 49]/[get_element_text] 正在对('class name', 'welcome-message')元素执行获取文本操作 
+[2023-02-20 18:05:45] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'welcome-message')没有找到 
+[2023-02-20 18:06:07] [ERROR] [base.py]/[line: 32]/[do_find_element] 查找元素('class name', 'welcome-message')没有找到 
+[2023-02-20 18:07:57] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="c2fb7f976a2064aa28289b08bc5138d7")> 
+[2023-02-20 18:07:57] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="c2fb7f976a2064aa28289b08bc5138d7")> 
+[2023-02-20 18:07:57] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 18:07:57] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 18:07:57] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 18:07:57] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 18:07:57] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 18:07:57] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 18:32:10] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="ab068f7ea764dd4fc1d019d6f1caecc5")> 
+[2023-02-20 18:32:10] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="ab068f7ea764dd4fc1d019d6f1caecc5")> 
+[2023-02-20 18:32:10] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 18:32:10] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 18:32:10] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 18:32:10] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 18:32:10] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 18:32:10] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-20 18:32:26] [INFO] [base.py]/[line: 49]/[get_element_text] 正在对('class name', 'welcome-message')元素执行获取文本操作 
+[2023-02-20 18:32:26] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'welcome-message')没有找到 
+[2023-02-20 18:51:35] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="1bd7894a30cec345d8e659c8620c6440")> 
+[2023-02-20 18:51:35] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="1bd7894a30cec345d8e659c8620c6440")> 
+[2023-02-20 18:51:35] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-20 18:51:35] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-20 18:51:35] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-20 18:51:35] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-20 18:51:35] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-20 18:51:35] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-21 11:28:20] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="63a14675144e02abbb8568980fa3edbd")> 
+[2023-02-21 11:28:20] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="63a14675144e02abbb8568980fa3edbd")> 
+[2023-02-21 11:28:20] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-21 11:28:20] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-21 11:28:20] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-21 11:28:20] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-21 11:28:20] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-21 11:28:20] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-21 11:28:39] [INFO] [base.py]/[line: 49]/[get_element_text] 正在对('class name', 'welcome-message')元素执行获取文本操作 
+[2023-02-21 11:28:39] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'welcome-message')没有找到 
+[2023-02-21 11:31:22] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="9aaa450f1bd5a122d0c47e0b3cbef32b")> 
+[2023-02-21 11:31:22] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="9aaa450f1bd5a122d0c47e0b3cbef32b")> 
+[2023-02-21 11:31:22] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-21 11:31:22] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-21 11:31:22] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-21 11:31:22] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-21 11:31:22] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-21 11:31:22] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-21 11:31:37] [INFO] [base.py]/[line: 49]/[get_element_text] 正在对('class name', 'welcome-message')元素执行获取文本操作 
+[2023-02-21 11:31:37] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'welcome-message')没有找到 
+[2023-02-21 11:40:00] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="7b7a803e456018dfc3203ee65ef57c06")> 
+[2023-02-21 11:40:00] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="7b7a803e456018dfc3203ee65ef57c06")> 
+[2023-02-21 11:40:00] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-21 11:40:00] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-21 11:40:00] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-21 11:40:00] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-21 11:40:00] [INFO] [base.py]/[line: 44]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-21 11:40:00] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-21 11:40:15] [INFO] [base.py]/[line: 49]/[get_element_text] 正在对('class name', 'welcome-message')元素执行获取文本操作 
+[2023-02-21 11:40:15] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'welcome-message')没有找到 
+[2023-02-21 11:42:37] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="b09d6488c7b1c9a92d6db3dc63335430")> 
+[2023-02-21 11:42:37] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="b09d6488c7b1c9a92d6db3dc63335430")> 
+[2023-02-21 11:42:37] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-21 11:42:37] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-21 11:42:37] [INFO] [base.py]/[line: 41]/[do_send_keys] 对('css selector', '[name="username"]')元素输入设置admin完成 
+[2023-02-21 11:42:37] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-21 11:42:37] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-21 11:42:37] [INFO] [base.py]/[line: 41]/[do_send_keys] 对('css selector', '[name="password"]')元素输入设置LSYJ14001完成 
+[2023-02-21 11:42:37] [INFO] [base.py]/[line: 45]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-21 11:42:37] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-21 11:42:37] [INFO] [base.py]/[line: 47]/[do_click] 对('class name', 'login-submit-button')元素执行点击操作完成 
+[2023-02-21 11:42:52] [INFO] [base.py]/[line: 51]/[get_element_text] 正在对('class name', 'welcome-message')元素执行获取文本操作 
+[2023-02-21 11:42:52] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'welcome-message')没有找到 
+[2023-02-21 11:43:59] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="1bed8fb19c38c689136dec6f5c93a656")> 
+[2023-02-21 11:43:59] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="1bed8fb19c38c689136dec6f5c93a656")> 
+[2023-02-21 11:43:59] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-21 11:43:59] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-21 11:43:59] [INFO] [base.py]/[line: 41]/[do_send_keys] 对('css selector', '[name="username"]')元素输入设置admin完成 
+[2023-02-21 11:43:59] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-21 11:43:59] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-21 11:43:59] [INFO] [base.py]/[line: 41]/[do_send_keys] 对('css selector', '[name="password"]')元素输入设置LSYJ14001完成 
+[2023-02-21 11:43:59] [INFO] [base.py]/[line: 45]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-21 11:43:59] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-21 11:43:59] [INFO] [base.py]/[line: 47]/[do_click] 对('class name', 'login-submit-button')元素执行点击操作完成 
+[2023-02-21 11:44:14] [INFO] [base.py]/[line: 51]/[get_element_text] 正在对('class name', 'welcome-message')元素执行获取文本操作 
+[2023-02-21 11:44:14] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'welcome-message')没有找到 
+[2023-02-21 11:46:40] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="506ead550a361c13348f5d806911a0c5")> 
+[2023-02-21 11:46:40] [INFO] [base.py]/[line: 12]/[__init__] 查正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="506ead550a361c13348f5d806911a0c5")> 
+[2023-02-21 11:46:40] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="username"]')元素执行输入操作,输入内容是admin 
+[2023-02-21 11:46:40] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="username"]')没有找到 
+[2023-02-21 11:46:40] [INFO] [base.py]/[line: 41]/[do_send_keys] 对('css selector', '[name="username"]')元素输入设置admin完成 
+[2023-02-21 11:46:40] [INFO] [base.py]/[line: 37]/[do_send_keys] 正在对('css selector', '[name="password"]')元素执行输入操作,输入内容是LSYJ14001 
+[2023-02-21 11:46:40] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('css selector', '[name="password"]')没有找到 
+[2023-02-21 11:46:40] [INFO] [base.py]/[line: 41]/[do_send_keys] 对('css selector', '[name="password"]')元素输入设置LSYJ14001完成 
+[2023-02-21 11:46:40] [INFO] [base.py]/[line: 45]/[do_click] 正在对('class name', 'login-submit-button')元素执行点击操作 
+[2023-02-21 11:46:40] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'login-submit-button')没有找到 
+[2023-02-21 11:46:40] [INFO] [base.py]/[line: 47]/[do_click] 对('class name', 'login-submit-button')元素执行点击操作完成 
+[2023-02-21 11:46:55] [INFO] [base.py]/[line: 51]/[get_element_text] 正在对('class name', 'welcome-message')元素执行获取文本操作 
+[2023-02-21 11:46:55] [ERROR] [base.py]/[line: 24]/[do_find_element] 正在查找元素元素('class name', 'welcome-message')没有找到 
+[2023-02-21 11:46:55] [INFO] [base.py]/[line: 53]/[get_element_text] 正在对('class name', 'welcome-message')元素执行获取文本操作完成 
