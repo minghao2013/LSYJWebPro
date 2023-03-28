@@ -1,0 +1,4 @@
+add_vip_user:
+  - [ test1,13145456767,11111@qq.com,2022-10-08,成功 ]
+ids:
+  - 添加VIP用户test1
