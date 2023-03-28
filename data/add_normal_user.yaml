@@ -1,0 +1,4 @@
+add_normal_user:
+  - [ test1,13145456767,11111@qq.com,成功 ]
+ids:
+  - 添加test1普通用户

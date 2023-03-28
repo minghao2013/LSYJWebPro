@@ -1,0 +1,4 @@
+delete_master:
+  - [ test1,成功 ]
+ids:
+  - 删除test1用户

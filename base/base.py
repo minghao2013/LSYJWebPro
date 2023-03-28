@@ -3,7 +3,7 @@ from selenium.common import NoSuchElementException
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
-from tools.logs_utils import logger
+from tools.except_fixture import *
 
 
 class Base:
@@ -13,6 +13,7 @@ class Base:
         self.driver: webdriver = driver
 
     # 查找元素方法
+    @exception_record
     def do_find_element(self, by, val=None, timeout=30, poll_frequency=0.5):
         """
         :param by: 查找元素的定位方法
@@ -20,17 +21,14 @@ class Base:
         :param timeout: 查找元素的超时时间,默认20秒
         :param poll_frequency: 查找元素的等待时间,默认0.5秒
         """
-        try:
-            logger.error("正在查找元素元素{}没有找到".format(by))
-            if val is None:
-                return WebDriverWait(self.driver, timeout=timeout, poll_frequency=poll_frequency).until(
-                    lambda x: x.find_element(*by), "正在查找元素元素{}没有找到".format(by))
-            else:
-                return WebDriverWait(self.driver, timeout=timeout, poll_frequency=poll_frequency).until(
-                    lambda x: x.find_element(by, val), "正在查找元素元素{}没有找到".format(by))
-        except Exception as e:
-            logger.error("查找元素{}没有找到".format(by))
-            raise e
+
+        logger.error("正在查找元素元素{}".format(by))
+        if val is None:
+            return WebDriverWait(self.driver, timeout=timeout, poll_frequency=poll_frequency).until(
+                lambda x: x.find_element(*by))
+        else:
+            return WebDriverWait(self.driver, timeout=timeout, poll_frequency=poll_frequency).until(
+                lambda x: x.find_element(by, val))
 
     # send keys封装方法
     def do_send_keys(self, by, text):
@@ -50,15 +48,15 @@ class Base:
     def get_element_text(self, by):
         logger.info("正在对{}元素执行获取文本操作".format(by))
         assert_text = self.do_find_element(by).text
-        logger.info("正在对{}元素执行获取文本操作完成".format(by))
+        logger.info("正在对{}元素执行获取文本操作完成,文本内容,{}".format(by, assert_text))
         return assert_text
 
     # 退出登录
-    def quit_driver(self):
-        logger.info("正在对driver{}清空操作".format(self.driver))
-        if self.driver is not None:
-            self.driver.quit()
-            self.driver = None
+    # def quit_driver(self):
+    #     logger.info("正在对driver{}清空操作".format(self.driver))
+    #     if self.driver is not None:
+    #         self.driver.quit()
+    #         self.driver = None
 
     # 滑动查找元素方法
     def swipe_element(self, by, move_times=1):
@@ -81,7 +79,7 @@ class Base:
                 logger.error("没有找到元素{}".format(by))
                 raise NoSuchElementException(f"第{move_times}次滑动没有元素")
 
-    # 查找某个元素出现,知道可以点击
+    # 查找某个元素直到元素出现,可以点击
     def expected_conditions_enable_click(self, by, val=None):
         """
         :param by:

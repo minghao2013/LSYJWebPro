@@ -1,0 +1,5 @@
+add_master:
+  - [ test1,C:\\Users\24453\\Desktop\\toutu.png,C:\\Users\\24453\\Desktop\\hengtu.png,C:\\Users\\24453\\Desktop\\shutu.png,C:\\Users\\24453\\Desktop\\xinketu.png,
+      C:\\Users\\24453\\Desktop\\fenxiangtu.png,1111,2222,-9999,我是一个老师,我是一个老师,成功 ]
+ids:
+  - 添加老师成功

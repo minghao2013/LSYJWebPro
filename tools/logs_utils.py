@@ -1,9 +1,10 @@
 import logging
 import os
-
 from logging.handlers import RotatingFileHandler
-
+from faker import Faker
 # 绑定绑定句柄到logger对象
+
+
 logger = logging.getLogger(__name__)
 # 获取当前工具文件所在的路径
 root_path = os.path.dirname(os.path.abspath(__file__))
@@ -29,3 +30,6 @@ logger.addHandler(stream_handler)
 logger.addHandler(file_log_handler)
 # 设置日志输出级别
 logger.setLevel(level=logging.INFO)
+
+fake = Faker(locale="zh_CN")
+

@@ -1,7 +1,7 @@
 from selenium import webdriver
 
 
-class GetDriver:
+class GetWebDriver:
     # 声明web_driver变量
     __web_driver: webdriver = None
 
@@ -24,5 +24,7 @@ class GetDriver:
         if cls.__web_driver is not None:
             cls.__web_driver.quit()
             cls.__web_driver = None
+
+
 
 

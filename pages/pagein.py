@@ -5,7 +5,7 @@ from pages.data_page import DataPage
 from pages.login_page import LoginPage
 
 
-class Pagein:
+class PageIn:
 
     def __init__(self, driver):
         self.driver = driver
